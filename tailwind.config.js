@@ -13,7 +13,7 @@ module.exports = {
     },
     extend: {
       animation: {
-        spin: "spin 3s linear infinite",
+        spin: "spin 4s linear infinite",
       },
     },
   },
